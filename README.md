@@ -3,35 +3,20 @@
 </p>
 
 <p align="center">
-    <a href="https://ci.avairebot.com/">
-        <img alt="TeamCity Simple Build Status" src="https://img.shields.io/teamcity/build/s/Avaire_Build?server=http%3A%2F%2Fci.avairebot.com%2F">
-    </a>
-    <a href="https://avairebot.com/">
-        <img src="https://cdn.avairebot.com/badge/avaire-version.svg" alt="AvaIre Version">
-    </a>
-    <a href="https://avairebot.com/">
-        <img src="https://cdn.avairebot.com/badge/avaire-coverage.svg" alt="AvaIre Code Coverage">
+    <a href="https://discord.gg/QcWVRMn">
+        <img src="https://img.shields.io/discord/703993516350636102.svg" alt="MKN Discord">
     </a>
     <a href="https://avairebot.com/support">
-        <img src="https://img.shields.io/discord/703993516350636102.svg" alt="Discord">
+        <img src="https://img.shields.io/discord/284083636368834561.svg" alt="MKN Discord">
     </a>
     <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
         <img src="img.shields.io/github/license/Mythic-Kingdoms-Network/Draco-Chan.svg" alt="GitHub" >
     </a>
 </p>
 
-<p align="center">
-    <a href="https://discordbots.org/bot/275270122082533378">
-        <img src="https://discordbots.org/api/widget/servers/275270122082533378.svg?noavatar=true" alt="AvaIre">
-    </a>
-    <a href="https://discordbots.org/bot/275270122082533378">
-        <img src="https://discordbots.org/api/widget/upvotes/275270122082533378.svg?noavatar=true" alt="AvaIre">
-    </a>
-</p>
+## About Draco Chan
 
-## About AvaIre
-
-AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
+Draco Chan is a fork of AvaIre for MKN discord, AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the [JDA](https://github.com/DV8FromTheWorld/JDA) library.
 
 ## Main features
 
@@ -47,25 +32,19 @@ AvaIre is a multipurpose Discord bot made for fun, written in Java 8, using the 
     - Change the prefix ava uses on a per-module basis
 - And more, check the [full command reference](https://avairebot.com/commands) for all the commands!
 
-Visit our [website](https://avairebot.com/) for more information.
-
-## Deploy AvaIre on Heroku
-You can deploy in a simple way to Heroku using the button below.
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-Before deploying, read [the configuration guide](https://github.com/avaire/avaire/wiki/configuration), aswell as [the guide](https://github.com/avaire/avaire/wiki/heroku-guide) regarding hosting with Heroku.
+Visit AvaIre's [website](https://avairebot.com/) for more information.
 
 ## Contributing
 
+PS: This is information about AvaIre contribution, we are really thankful for they create this awesome bot so please help them ;).
 Thank you for considering contributing to AvaIre! The contribution guide can be found in the [AvaIre documentation](https://github.com/avaire/avaire/wiki/contribution-guide).
 
 ## License
 
-AvaIre is open-sourced software licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html).
+Draco Chan is open-sourced software licensed under the [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl.html).
 
 ## Third Party Licenses
-AvaIre relies on the following projects:
+Draco Chan/AvaIre relies on the following projects:
 
 | Name | License  |
 |:---|:---|
@@ -87,6 +66,10 @@ AvaIre relies on the following projects:
 ---
 
 <p align="center">
-  <a href="https://avairebot.com/support"><img src="https://discordapp.com/api/guilds/284083636368834561/widget.png?style=banner2" alt="Discord server"></a>
+  <a href="https://discord.gg/QcWVRMn"><img src="https://discordapp.com/api/guilds/703993516350636102/widget.png?style=banner2" alt="MKN's Discord server"></a>
+  <br>MKN support server: https://discord.gg/QcWVRMn
+</p>
+<p align="center">
+  <a href="https://avairebot.com/support"><img src="https://discordapp.com/api/guilds/284083636368834561/widget.png?style=banner2" alt="AvaIre's Discord server"></a>
   <br>AvaIre support server: https://avairebot.com/support
 </p>
