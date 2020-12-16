@@ -26,7 +26,7 @@
 # since having the console flooded with information can be very
 # overwhelming if you don't know what you're looking at.
 #
-# AvaIre supports two different environments, "production" and "development"
+# Draco-Chan/AvaIre supports two different environments, "production" and "development"
 #
 # Production is used for minimal console output and for all parts of the
 # application to be enabled. Development is used for debugging messages
@@ -49,7 +49,7 @@ environment: 'production'
 # name, then click on "Create a Bot User", and you're good to go!
 # https://discordapp.com/developers/applications/me
 #
-# AvaIre needs your Discord application token to login and interact with
+# Draco-Chan/AvaIre needs your Discord application token to login and interact with
 # users, and optionally the application ID for handling music using
 # Lavalink instead of doing it internally, you can also use the
 # application ID to create a invite link for your bot.
@@ -137,7 +137,7 @@ database:
 
   # This is the name of the database that Ava should use for all tables.
   #
-  database: 'avaire'
+  database: 'dracochan'
 
   # This is the hostname of the database, if you're hosting the database on
   # the same machine the bot is also hosted on you should be fine keeping

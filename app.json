@@ -1,6 +1,6 @@
 {
-    "name": "AvaIre",
-    "description": "AvaIre is a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
+    "name": "Draco-Chan",
+    "description": "Draco-Chan is a fork of AvaIre, a high quality Music bot, with moderation, interaction, search, administration commands, highly customizable and much more!",
     "keywords": [
         "Heroku",
         "AvaIre",
@@ -16,7 +16,7 @@
         "Discord Music Bot"
     ],
     "website": "https://avairebot.com/",
-    "repository": "https://github.com/avaire/avaire",
+    "repository": "https://github.com/Mythic-Kingdoms-Network/Draco-Chan",
     "logo": "https://imgur.com/H8RCD5F.png",
     "success_url": "/",
     "scripts": {

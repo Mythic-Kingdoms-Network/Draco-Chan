@@ -9,22 +9,22 @@ apply plugin: 'idea'
 
 version = '0.10.12'
 group = 'com.avairebot'
-description = 'AvaIre Discord Bot'
+description = 'Draco-Chan Discord Bot based on Avaire'
 mainClassName = 'com.avairebot.Main'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
 ext {
-    moduleName = 'AvaIre'
+    moduleName = 'Draco-Chan'
 }
 
 shadowJar {
-    archiveName = "AvaIre.jar"
+    archiveName = "Draco-Chan.jar"
 
     doLast {
         copy {
-            from 'build/libs/AvaIre.jar'
+            from 'build/libs/Draco-Chan.jar'
             into '.'
         }
     }
@@ -38,7 +38,7 @@ tasks.withType(JavaCompile) {
 
 task fatJar(type: Jar) {
     manifest {
-        attributes 'Implementation-Title': 'AvaIre: Discord Bot',
+        attributes 'Implementation-Title': 'Draco-Chan: Discord Bot, Forked from: AvaIre',
             'Implementation-Version': version,
             'Main-Class': 'com.avairebot.Main'
     }
