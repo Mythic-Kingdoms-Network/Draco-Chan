@@ -13,10 +13,10 @@
         <img src="https://cdn.avairebot.com/badge/avaire-coverage.svg" alt="AvaIre Code Coverage">
     </a>
     <a href="https://avairebot.com/support">
-        <img src="https://img.shields.io/discord/284083636368834561.svg" alt="Discord">
+        <img src="https://img.shields.io/discord/703993516350636102.svg" alt="Discord">
     </a>
     <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-        <img src="https://img.shields.io/github/license/avaire/avaire.svg" alt="GitHub" >
+        <img src="https://img.shields.io/github/license/Picono435/Draco-Chan.svg" alt="GitHub" >
     </a>
 </p>
 
