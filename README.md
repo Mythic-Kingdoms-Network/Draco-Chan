@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/discord/703993516350636102.svg" alt="Discord">
     </a>
     <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
-        <img src="https://img.shields.io/github/license/Picono435/Draco-Chan.svg" alt="GitHub" >
+        <img src="https://img.shields.io/github/license/picono435/draco-chan.svg" alt="GitHub" >
     </a>
 </p>
 
