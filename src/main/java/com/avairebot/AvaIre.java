@@ -243,6 +243,7 @@ public class AvaIre {
         }
 
         log.info("Registering default command categories");
+        CategoryHandler.addCategory(this, "MythicKingdoms", defaultPrefix);
         CategoryHandler.addCategory(this, "Administration", defaultPrefix);
         CategoryHandler.addCategory(this, "Help", defaultPrefix);
         CategoryHandler.addCategory(this, "Fun", defaultPrefix);
