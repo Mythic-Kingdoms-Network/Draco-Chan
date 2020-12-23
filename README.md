@@ -48,6 +48,7 @@ Draco Chan/AvaIre relies on the following projects:
 
 | Name | License  |
 |:---|:---|
+| [AvaIre](https://github.com/avaire/avaire) | [GNU General Public License v3.0](https://github.com/avaire/avaire/blob/master/LICENSE.md) |
 | [JDA (Java Discord API)](https://github.com/DV8FromTheWorld/JDA) | [Apache License 2.0](https://github.com/DV8FromTheWorld/JDA/blob/master/LICENSE) |
 | [LavaPlayer - Audio player library for Discord](https://github.com/sedmelluq/lavaplayer) | [Apache License 2.0](https://github.com/sedmelluq/lavaplayer/blob/master/LICENSE) |
 | [google-gson](https://github.com/google/gson) | [Apache License 2.0](https://github.com/google/gson/blob/master/LICENSE) |
